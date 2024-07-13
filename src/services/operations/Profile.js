@@ -10,7 +10,7 @@ export function userDetalis (token){
     return async(dispatch)=>{
         try{
             const response = await apiConnector("GET",profileApi.getUserDeatails, null, {
-                Authorization: `Bearer${token}`,
+                Authorization:`Bearer${token}`,
             })
             console.log("user details",response)
              const userImage = response.data.data.Image ? response.data.data.Image:
