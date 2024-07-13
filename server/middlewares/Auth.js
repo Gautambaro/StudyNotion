@@ -24,7 +24,7 @@ const User = require("../models/user")
             //verify the token
             try{ 
                 console.log("verfying process")
-                const decode =  jwt.verify(token, process.env.JWT_SECRET);
+                const decode =  jwt.verify(token, process.env.jwt_secret);
                 console.log(decode);
                 req.user = decode;
                 console.log("after verfying")
