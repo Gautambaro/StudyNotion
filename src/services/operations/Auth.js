@@ -48,6 +48,7 @@ export function sendOtp(email,navigate){
        
     
        localStorage.setItem("user",JSON.stringify((response.data.user)));
+       localStorage.setItem("token",JSON.stringify((response.data.token)));
        navigate("/dashboard/myProfile");
      }catch(error){
        console.log(error)
