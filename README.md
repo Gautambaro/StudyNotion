@@ -1,6 +1,6 @@
 
 
-<a name="_heading=h.gjdgxs"></a>StudyNotion
+## StudyNotion
 
 An ed-tech platform
 
