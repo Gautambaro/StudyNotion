@@ -1,5 +1,4 @@
 
-![Aspose Words aa8d9b68-e0b3-44f1-aade-7c49c1c36e9f 001](https://github.com/user-attachments/assets/5291f802-8440-447d-936f-a8a6c1ad47dc)
 
 <a name="_heading=h.gjdgxs"></a>StudyNotion
 
