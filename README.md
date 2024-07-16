@@ -38,7 +38,8 @@ The database for the platform is built using MongoDB, which is a NoSQL database 
 ### Architecture Diagram
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform:
 
-![](Aspose.Words.aa8d9b68-e0b3-44f1-aade-7c49c1c36e9f.002.png)
+![Aspose Words aa8d9b68-e0b3-44f1-aade-7c49c1c36e9f 002](https://github.com/user-attachments/assets/6158e240-4f59-499b-9789-e575947e7e3a)
+
 
 
 # Front-end
@@ -98,7 +99,8 @@ The back end of StudyNotion uses a range of data models and database schemas to 
 
 Overall, the back-end of StudyNotion is designed to provide a robust and scalable solution for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the right frameworks, libraries, and tools, we can ensure that the platform functions smoothly and provides an optimal user experience for all its users.
 
-![](Aspose.Words.aa8d9b68-e0b3-44f1-aade-7c49c1c36e9f.003.jpeg)
+
+![Aspose Words aa8d9b68-e0b3-44f1-aade-7c49c1c36e9f 003](https://github.com/user-attachments/assets/213e723a-62d4-4630-87f0-c0207778f99d)
 
 
 # API Design:
