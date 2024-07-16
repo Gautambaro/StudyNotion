@@ -1,11 +1,11 @@
 
-![Bright blue glacial lake surrounded by white ice on a dark mountain](Aspose.Words.aa8d9b68-e0b3-44f1-aade-7c49c1c36e9f.001.png)
+![Aspose Words aa8d9b68-e0b3-44f1-aade-7c49c1c36e9f 001](https://github.com/user-attachments/assets/5291f802-8440-447d-936f-a8a6c1ad47dc)
 
 <a name="_heading=h.gjdgxs"></a>StudyNotion
 
 An ed-tech platform
 
-CodeHelp | 17-02-2023
+
 # Project Description
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
@@ -42,7 +42,7 @@ Here is a high-level diagram that illustrates the architecture of the StudyNotio
 
 
 # Front-end
-The front end is part of the platform that the user interacts with. It's like the "face" of the platform that the user sees and interacts with. The front end of StudyNotion is designed using a tool called Figma, which is a popular design tool that allows for the creation of clean and minimal user interfaces. You can take a look at the Figma design for the StudyNotion front-end by following this link: <https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudyNotion_shared>.
+The front end is part of the platform that the user interacts with. It's like the "face" of the platform that the user sees and interacts with. The front end of StudyNotion is designed using a tool called Figma, which is a popular design tool that allows for the creation of clean and minimal user 
 
 The front end of StudyNotion has all the necessary pages that an ed-tech platform should have. Some of these pages are:
 #### *For Students:*
